@@ -1,0 +1,1 @@
+trilium-note-todo-widget
